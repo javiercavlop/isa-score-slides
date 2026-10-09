@@ -1,0 +1,13 @@
+{"title_slide": {"slide": "cover", "title": "From Service Composition to Pricing-Driven Operation",
+                 "authors": [["Francisco Javier Cavero", true]], "venue": "SPARK Meeting", "date": "October 2026"},
+ "closing_slide": {"slide": "closing", "title": "From Service Composition to Pricing-Driven Operation",
+                   "authors": [["Francisco Javier Cavero", true]], "email": "fcavero@us.es",
+                   "venue": "SPARK Meeting", "date": "October 2026", "qr_image": null, "funding": false},
+ "components": [
+  {"slide": "agenda1", "id": "agenda-arc", "slides": [1], "number": 2, "replacements": {"\t\tINTRODUCTION": "\t\tQACO", "\t\tPROPOSAL": "\t\tTOWARDS ALLOCATION", "\t\tEVALUATION": "\t\tOPENBINDING & BIM", "\t\tCONCLUSIONS": "\t\tPRICINGS IN OPERATION"}},
+  {"slide": "agenda2", "id": "agenda-arc", "slides": [2], "number": 8, "replacements": {"\t\tINTRODUCTION": "\t\tQACO", "\t\tPROPOSAL": "\t\tTOWARDS ALLOCATION", "\t\tEVALUATION": "\t\tOPENBINDING & BIM", "\t\tCONCLUSIONS": "\t\tPRICINGS IN OPERATION"}, "timing_from": "agenda1"},
+  {"slide": "agenda3", "id": "agenda-arc", "slides": [3], "number": 14, "replacements": {"\t\tINTRODUCTION": "\t\tQACO", "\t\tPROPOSAL": "\t\tTOWARDS ALLOCATION", "\t\tEVALUATION": "\t\tOPENBINDING & BIM", "\t\tCONCLUSIONS": "\t\tPRICINGS IN OPERATION"}, "timing_from": "agenda1"},
+  {"slide": "agenda4", "id": "agenda-arc", "slides": [4], "number": 21, "replacements": {"\t\tINTRODUCTION": "\t\tQACO", "\t\tPROPOSAL": "\t\tTOWARDS ALLOCATION", "\t\tEVALUATION": "\t\tOPENBINDING & BIM", "\t\tCONCLUSIONS": "\t\tPRICINGS IN OPERATION"}, "timing_from": "agenda1"},
+  {"slide": "pr-icons", "id": "pricing-table-build", "number": 22, "covers": ["pr-table", "pr-limits", "pr-clocks", "pr-addon", "pr-config-a", "pr-config-b"], "notes": ["pr-icons", "pr-table", "pr-limits", "pr-clocks", "pr-addon", "pr-config-a", "pr-config-b"]},
+  {"slide": "curse-a", "id": "curse-of-customization", "number": 24, "covers": ["curse-b"], "notes": ["curse-a", "curse-b"]}
+ ]}

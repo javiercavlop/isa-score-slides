@@ -1,0 +1,1192 @@
+[
+ {
+  "id": "hook-pricing-question",
+  "category": "Openers",
+  "name": "Pricing hook question",
+  "description": "Collage of real pricing pages → decision-maker ‘OPTIMIZE’ → value-cost with the guiding question → two real pricings (GitHub vs CircleCI) with highlighted rows. Morph between the three.",
+  "slides": 3,
+  "source": "CAiSE_2026_-_FJCL.pptx slides [3, 4, 5]",
+  "aspect": "16:9",
+  "transitions": [
+   "morph",
+   "morph",
+   "morph"
+  ],
+  "effects": {
+   "entr:wipe": 1,
+   "entr:zoom": 9
+  },
+  "file": "kit/library/hook-pricing-question.pptx.b64.txt",
+  "bytes": 6842614,
+  "frames": [
+   "assets/Library/hook-pricing-question-01.jpg",
+   "assets/Library/hook-pricing-question-02.jpg",
+   "assets/Library/hook-pricing-question-03.jpg"
+  ],
+  "component": "HookPricingQuestion"
+ },
+ {
+  "id": "quote-hook",
+  "category": "Openers",
+  "name": "Authority quote",
+  "description": "Centred quote with the key fragment in alert red and the author, used as the very first content slide.",
+  "slides": 1,
+  "source": "PhD_Forum_FEBRERO_2026_-_AGF.pptx slides [3]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut"
+  ],
+  "effects": {},
+  "file": "kit/library/quote-hook.pptx.b64.txt",
+  "bytes": 169055,
+  "frames": [
+   "assets/Library/quote-hook-01.jpg"
+  ],
+  "component": "QuoteHook"
+ },
+ {
+  "id": "statement-hooks",
+  "category": "Openers",
+  "name": "Statement hooks",
+  "description": "One-word statement (‘Customization’), a claim with a giant crimson word (THOUSANDS) and the thesis title with ‘Pricing’ highlighted.",
+  "slides": 3,
+  "source": "PhD_Forum_FEBRERO_2026_-_AGF.pptx slides [4, 5, 6]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "cut",
+   "cut"
+  ],
+  "effects": {},
+  "file": "kit/library/statement-hooks.pptx.b64.txt",
+  "bytes": 197611,
+  "frames": [
+   "assets/Library/statement-hooks-01.jpg",
+   "assets/Library/statement-hooks-02.jpg",
+   "assets/Library/statement-hooks-03.jpg"
+  ],
+  "component": "StatementHooks"
+ },
+ {
+  "id": "character-cases",
+  "category": "Openers",
+  "name": "Presenter character with cases",
+  "description": "Illustrated presenter character at the left; mini pricing tables with red frames marking inconsistent cases, ‘Depends on / Excludes’ arrows. Character reused across slides.",
+  "slides": 3,
+  "source": "CAISE25-AGF.pptx slides [25, 26, 27]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "cut",
+   "cut"
+  ],
+  "effects": {
+   "entr:zoom": 3,
+   "entr:dissolve": 2
+  },
+  "file": "kit/library/character-cases.pptx.b64.txt",
+  "bytes": 2245460,
+  "frames": [
+   "assets/Library/character-cases-01.jpg",
+   "assets/Library/character-cases-02.jpg",
+   "assets/Library/character-cases-03.jpg"
+  ],
+  "component": "CharacterCases"
+ },
+ {
+  "id": "thinking-character-story",
+  "category": "Openers",
+  "name": "Thinking character story",
+  "description": "Character with a thought cloud whose contents change step by step (travel booking → real SaaS brands → task graph). Zoom/Wipe entrances and Morph to the composition graph.",
+  "slides": 9,
+  "source": "SCORE_2025_-_FJCL.pptx slides [3, 4, 5, 6, 7, 8, 9, 10, 12]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "cut",
+   "morph",
+   "morph",
+   "cut",
+   "cut",
+   "cut",
+   "cut",
+   "morph"
+  ],
+  "effects": {
+   "entr:appear": 4,
+   "entr:fly_in": 1,
+   "entr:wipe": 15,
+   "entr:rise_up": 2,
+   "entr:zoom": 34,
+   "exit:appear": 4
+  },
+  "file": "kit/library/thinking-character-story.pptx.b64.txt",
+  "bytes": 5486798,
+  "frames": [
+   "assets/Library/thinking-character-story-01.jpg",
+   "assets/Library/thinking-character-story-02.jpg",
+   "assets/Library/thinking-character-story-03.jpg",
+   "assets/Library/thinking-character-story-04.jpg",
+   "assets/Library/thinking-character-story-05.jpg",
+   "assets/Library/thinking-character-story-06.jpg",
+   "assets/Library/thinking-character-story-07.jpg",
+   "assets/Library/thinking-character-story-08.jpg",
+   "assets/Library/thinking-character-story-09.jpg"
+  ],
+  "component": "ThinkingCharacterStory"
+ },
+ {
+  "id": "agenda-arc",
+  "category": "Agenda",
+  "name": "Agenda arc (4 states)",
+  "description": "The real agenda with icons (start flag, bulb, checklist, checkered flag) on the crimson arc; one copy per section with the current circle filled.",
+  "slides": 4,
+  "source": "CAISE25-AGF.pptx slides [3, 23, 43, 50]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "cut",
+   "cut",
+   "cut"
+  ],
+  "effects": {
+   "entr:appear": 1,
+   "entr:wipe": 5,
+   "entr:zoom": 4
+  },
+  "file": "kit/library/agenda-arc.pptx.b64.txt",
+  "bytes": 340038,
+  "frames": [
+   "assets/Library/agenda-arc-01.jpg",
+   "assets/Library/agenda-arc-02.jpg",
+   "assets/Library/agenda-arc-03.jpg",
+   "assets/Library/agenda-arc-04.jpg"
+  ],
+  "component": "AgendaArcOriginal"
+ },
+ {
+  "id": "toc-numbered",
+  "category": "Agenda",
+  "name": "Numbered ‘What is this about?’",
+  "description": "Numbered table of contents with large crimson numerals; the second copy marks the current section.",
+  "slides": 2,
+  "source": "JCIS-AGF-v2.pptx slides [3, 18]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "cut"
+  ],
+  "effects": {},
+  "file": "kit/library/toc-numbered.pptx.b64.txt",
+  "bytes": 167827,
+  "frames": [
+   "assets/Library/toc-numbered-01.jpg",
+   "assets/Library/toc-numbered-02.jpg"
+  ],
+  "component": "TocNumbered"
+ },
+ {
+  "id": "toc-list",
+  "category": "Agenda",
+  "name": "Table of Contents (PhD Forum)",
+  "description": "Plain numbered TOC with nested items; current section in bold. Used before each section of a long talk.",
+  "slides": 2,
+  "source": "PhD_Forum_FEBRERO_2026_-_AGF.pptx slides [2, 25]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "cut"
+  ],
+  "effects": {},
+  "file": "kit/library/toc-list.pptx.b64.txt",
+  "bytes": 196313,
+  "frames": [
+   "assets/Library/toc-list-01.jpg",
+   "assets/Library/toc-list-02.jpg"
+  ],
+  "component": "TocList"
+ },
+ {
+  "id": "pricing-table-build",
+  "category": "Pricing",
+  "name": "Pricing table build → configuration space",
+  "description": "Icons of features scattered → BASIC/PRO/BUSINESS table with prices → usage-limits legend (Relaxed/Moderate/Strict) → add-on card ($10 / month) → explosion into monitors with every subscription Ⓢ(…) → ‘Configuration Space’. All Morph.",
+  "slides": 7,
+  "source": "CAiSE_2026_-_FJCL.pptx slides [6, 7, 8, 9, 10, 11, 12]",
+  "aspect": "16:9",
+  "transitions": [
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph"
+  ],
+  "effects": {
+   "entr:appear": 4,
+   "entr:zoom": 1
+  },
+  "file": "kit/library/pricing-table-build.pptx.b64.txt",
+  "bytes": 238451,
+  "frames": [
+   "assets/Library/pricing-table-build-01.jpg",
+   "assets/Library/pricing-table-build-02.jpg",
+   "assets/Library/pricing-table-build-03.jpg",
+   "assets/Library/pricing-table-build-04.jpg",
+   "assets/Library/pricing-table-build-05.jpg",
+   "assets/Library/pricing-table-build-06.jpg",
+   "assets/Library/pricing-table-build-07.jpg"
+  ],
+  "component": "PricingTableBuild"
+ },
+ {
+  "id": "pricing-build-user",
+  "category": "Pricing",
+  "name": "Pricing build with user and subscriptions",
+  "description": "User at a monitor → empty plan table → features → limits → add-ons → fan of user subscriptions on monitors → users coloured per subscription (4:3 deck, centred). Includes white side masks (‘!!4x3 mask left/right’) that keep the original 4:3 framing on the 16:9 slide.",
+  "slides": 11,
+  "source": "ICSOC24-SOC4AI-FJCL.pptx slides [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+  "aspect": "4:3 centred on 16:9",
+  "transitions": [
+   "cut",
+   "cut",
+   "morph",
+   "cut",
+   "morph",
+   "cut",
+   "morph",
+   "cut",
+   "morph",
+   "morph",
+   "morph"
+  ],
+  "effects": {
+   "entr:appear": 16,
+   "entr:wipe": 5,
+   "entr:zoom": 25,
+   "exit:zoom": 1
+  },
+  "file": "kit/library/pricing-build-user.pptx.b64.txt",
+  "bytes": 917414,
+  "frames": [
+   "assets/Library/pricing-build-user-01.jpg",
+   "assets/Library/pricing-build-user-02.jpg",
+   "assets/Library/pricing-build-user-03.jpg",
+   "assets/Library/pricing-build-user-04.jpg",
+   "assets/Library/pricing-build-user-05.jpg",
+   "assets/Library/pricing-build-user-06.jpg",
+   "assets/Library/pricing-build-user-07.jpg",
+   "assets/Library/pricing-build-user-08.jpg",
+   "assets/Library/pricing-build-user-09.jpg",
+   "assets/Library/pricing-build-user-10.jpg",
+   "assets/Library/pricing-build-user-11.jpg"
+  ],
+  "component": "PricingBuildUser"
+ },
+ {
+  "id": "curse-of-customization",
+  "category": "Pricing",
+  "name": "Curse of customization fan",
+  "description": "Small pricing table whose plans fan out with crimson lines into the full list of subscriptions Ⓢ(…) once add-ons are added.",
+  "slides": 2,
+  "source": "CAiSE_2026_-_FJCL.pptx slides [13, 14]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "morph"
+  ],
+  "effects": {},
+  "file": "kit/library/curse-of-customization.pptx.b64.txt",
+  "bytes": 156176,
+  "frames": [
+   "assets/Library/curse-of-customization-01.jpg",
+   "assets/Library/curse-of-customization-02.jpg"
+  ],
+  "component": "CurseOfCustomization"
+ },
+ {
+  "id": "pricification-timeline",
+  "category": "Pricing",
+  "name": "Pricification process timeline",
+  "description": "Horizontal crimson timeline from a SaaS screen to a pricing table: milestones (identification of features, essential/key features, generation of the pricing structure) and a BPMN detail.",
+  "slides": 4,
+  "source": "PhD_Forum_FEBRERO_2026_-_AGF.pptx slides [31, 32, 33, 34]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "cut",
+   "cut",
+   "cut"
+  ],
+  "effects": {
+   "entr:wipe": 16,
+   "entr:blinds": 1,
+   "entr:zoom": 20,
+   "exit:zoom": 1
+  },
+  "file": "kit/library/pricification-timeline.pptx.b64.txt",
+  "bytes": 917698,
+  "frames": [
+   "assets/Library/pricification-timeline-01.jpg",
+   "assets/Library/pricification-timeline-02.jpg",
+   "assets/Library/pricification-timeline-03.jpg",
+   "assets/Library/pricification-timeline-04.jpg"
+  ],
+  "component": "PricificationTimeline"
+ },
+ {
+  "id": "evaluation-ground-truth",
+  "category": "Pricing",
+  "name": "Ground truth vs extraction (TP/FP/FN/TN)",
+  "description": "Point-based evaluation hub (TP, FP, FN, TN) then ground-truth vs extracted pricing tables with crimson frames per case (4:3 deck, centred). Includes white side masks (‘!!4x3 mask left/right’) that keep the original 4:3 framing on the 16:9 slide.",
+  "slides": 6,
+  "source": "ICSOC24-SOC4AI-FJCL.pptx slides [28, 29, 30, 31, 32, 33]",
+  "aspect": "4:3 centred on 16:9",
+  "transitions": [
+   "cut",
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph"
+  ],
+  "effects": {
+   "entr:appear": 12,
+   "entr:wipe": 18
+  },
+  "file": "kit/library/evaluation-ground-truth.pptx.b64.txt",
+  "bytes": 331844,
+  "frames": [
+   "assets/Library/evaluation-ground-truth-01.jpg",
+   "assets/Library/evaluation-ground-truth-02.jpg",
+   "assets/Library/evaluation-ground-truth-03.jpg",
+   "assets/Library/evaluation-ground-truth-04.jpg",
+   "assets/Library/evaluation-ground-truth-05.jpg",
+   "assets/Library/evaluation-ground-truth-06.jpg"
+  ],
+  "component": "EvaluationGroundTruth"
+ },
+ {
+  "id": "devops-to-pricing-driven",
+  "category": "Processes",
+  "name": "DevOps loop → Pricing-driven DevOps",
+  "description": "Traditional DevOps infinity loop with a provider-events timeline (pe1…pen) → effort chart → definition card over a grey veil → codebase with feature toggles → Pricing-driven Dev/Ops loop with its five research lines.",
+  "slides": 9,
+  "source": "CAISE25-AGF.pptx slides [13, 14, 15, 16, 17, 18, 19, 20, 21]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "cut",
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph"
+  ],
+  "effects": {
+   "entr:fade": 3,
+   "entr:peek_in": 5,
+   "entr:float_in": 9,
+   "entr:dissolve": 5,
+   "exit:dissolve": 2
+  },
+  "file": "kit/library/devops-to-pricing-driven.pptx.b64.txt",
+  "bytes": 2545161,
+  "frames": [
+   "assets/Library/devops-to-pricing-driven-01.jpg",
+   "assets/Library/devops-to-pricing-driven-02.jpg",
+   "assets/Library/devops-to-pricing-driven-03.jpg",
+   "assets/Library/devops-to-pricing-driven-04.jpg",
+   "assets/Library/devops-to-pricing-driven-05.jpg",
+   "assets/Library/devops-to-pricing-driven-06.jpg",
+   "assets/Library/devops-to-pricing-driven-07.jpg",
+   "assets/Library/devops-to-pricing-driven-08.jpg",
+   "assets/Library/devops-to-pricing-driven-09.jpg"
+  ],
+  "component": "DevopsToPricingDriven"
+ },
+ {
+  "id": "devops-numbered-overview",
+  "category": "Processes",
+  "name": "Pricing-driven DevOps research lines",
+  "description": "Numbered list of the five lines next to the loop; each copy highlights one line and swaps the illustration (metamodel, design, self-adaptation, testing, analysis).",
+  "slides": 7,
+  "source": "JCIS-AGF-v2.pptx slides [48, 49, 50, 51, 52, 53, 54]",
+  "aspect": "16:9",
+  "transitions": [
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph"
+  ],
+  "effects": {
+   "entr:peek_in": 5,
+   "entr:wipe": 1,
+   "entr:dissolve": 1
+  },
+  "file": "kit/library/devops-numbered-overview.pptx.b64.txt",
+  "bytes": 2258389,
+  "frames": [
+   "assets/Library/devops-numbered-overview-01.jpg",
+   "assets/Library/devops-numbered-overview-02.jpg",
+   "assets/Library/devops-numbered-overview-03.jpg",
+   "assets/Library/devops-numbered-overview-04.jpg",
+   "assets/Library/devops-numbered-overview-05.jpg",
+   "assets/Library/devops-numbered-overview-06.jpg",
+   "assets/Library/devops-numbered-overview-07.jpg"
+  ],
+  "component": "DevopsNumberedOverview"
+ },
+ {
+  "id": "feature-toggles-codebase",
+  "category": "Processes",
+  "name": "Feature toggles in the codebase",
+  "description": "Codebase files with toggles, toggle context database and pricing → evaluation space size ‘8’ → architecture with micro-services.",
+  "slides": 4,
+  "source": "JCIS-AGF-v2.pptx slides [14, 15, 16, 17]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "fade",
+   "morph",
+   "morph"
+  ],
+  "effects": {
+   "entr:blinds": 2
+  },
+  "file": "kit/library/feature-toggles-codebase.pptx.b64.txt",
+  "bytes": 434097,
+  "frames": [
+   "assets/Library/feature-toggles-codebase-01.jpg",
+   "assets/Library/feature-toggles-codebase-02.jpg",
+   "assets/Library/feature-toggles-codebase-03.jpg",
+   "assets/Library/feature-toggles-codebase-04.jpg"
+  ],
+  "component": "FeatureTogglesCodebase"
+ },
+ {
+  "id": "feature-toggle-anatomy",
+  "category": "Processes",
+  "name": "Anatomy of a feature toggle",
+  "description": "‘Feature Toggles’ statement → SaaS code file with toggles → zoom into the code with Context / Rule / Feature callouts.",
+  "slides": 3,
+  "source": "ICWE25-AGF.pptx slides [22, 23, 24]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "cut",
+   "morph"
+  ],
+  "effects": {
+   "entr:appear": 9
+  },
+  "file": "kit/library/feature-toggle-anatomy.pptx.b64.txt",
+  "bytes": 290905,
+  "frames": [
+   "assets/Library/feature-toggle-anatomy-01.jpg",
+   "assets/Library/feature-toggle-anatomy-02.jpg",
+   "assets/Library/feature-toggle-anatomy-03.jpg"
+  ],
+  "component": "FeatureToggleAnatomy"
+ },
+ {
+  "id": "evaluation-expression",
+  "category": "Processes",
+  "name": "Anatomy of an evaluation expression",
+  "description": "Pricing table + code snippet with dashed frames; the expression is resolved against a plan (GOLD → PLATINUM) with crimson arrows.",
+  "slides": 1,
+  "source": "PhD_Forum_FEBRERO_2026_-_AGF.pptx slides [17]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut"
+  ],
+  "effects": {
+   "entr:wipe": 4,
+   "entr:dissolve": 3
+  },
+  "file": "kit/library/evaluation-expression.pptx.b64.txt",
+  "bytes": 308004,
+  "frames": [
+   "assets/Library/evaluation-expression-01.jpg"
+  ],
+  "component": "EvaluationExpression"
+ },
+ {
+  "id": "three-step-flow",
+  "category": "Processes",
+  "name": "Three-card problem flow",
+  "description": "Three rounded pastel cards (rose → white → blue) joined by thick crimson/teal arrows: Decision-makers → Semantic gap → PI tools.",
+  "slides": 1,
+  "source": "CAiSE_2026_-_FJCL.pptx slides [20]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut"
+  ],
+  "effects": {
+   "entr:wipe": 2,
+   "entr:zoom": 4
+  },
+  "file": "kit/library/three-step-flow.pptx.b64.txt",
+  "bytes": 481834,
+  "frames": [
+   "assets/Library/three-step-flow-01.jpg"
+  ],
+  "component": "ThreeStepFlow"
+ },
+ {
+  "id": "pipeline-flow",
+  "category": "Processes",
+  "name": "Data-collection pipeline",
+  "description": "GitHub → paper → SaaS cloud → YAML with crimson elbow arrows and counters (16, 3, 30 SaaS), then zoom to the charts.",
+  "slides": 2,
+  "source": "JCIS-AGF-v2.pptx slides [20, 21]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "morph"
+  ],
+  "effects": {
+   "entr:blinds": 16
+  },
+  "file": "kit/library/pipeline-flow.pptx.b64.txt",
+  "bytes": 1060650,
+  "frames": [
+   "assets/Library/pipeline-flow-01.jpg",
+   "assets/Library/pipeline-flow-02.jpg"
+  ],
+  "component": "PipelineFlow"
+ },
+ {
+  "id": "layers-zoom",
+  "category": "Architecture",
+  "name": "Layer stack → zoom into one layer",
+  "description": "PIIP layers (accessibility / orchestration / capability) → capability layer zoomed with MCP server and tools → the layers beside the system logo.",
+  "slides": 3,
+  "source": "CAiSE_2026_-_FJCL.pptx slides [21, 22, 23]",
+  "aspect": "16:9",
+  "transitions": [
+   "morph",
+   "morph",
+   "morph"
+  ],
+  "effects": {
+   "entr:rise_up": 3,
+   "entr:zoom": 1
+  },
+  "file": "kit/library/layers-zoom.pptx.b64.txt",
+  "bytes": 7097352,
+  "frames": [
+   "assets/Library/layers-zoom-01.jpg",
+   "assets/Library/layers-zoom-02.jpg",
+   "assets/Library/layers-zoom-03.jpg"
+  ],
+  "component": "LayersZoom"
+ },
+ {
+  "id": "architecture-spotlight",
+  "category": "Architecture",
+  "name": "Architecture walkthrough with spotlight",
+  "description": "Three-layer architecture image with a crimson frame that Morph moves from the user query to reasoning, tool invocation, MCP server, tools, synthesis and response; final copies isolate layers.",
+  "slides": 8,
+  "source": "CAiSE_2026_-_FJCL.pptx slides [24, 25, 26, 27, 28, 29, 30, 31]",
+  "aspect": "16:9",
+  "transitions": [
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph"
+  ],
+  "effects": {
+   "entr:zoom": 1
+  },
+  "file": "kit/library/architecture-spotlight.pptx.b64.txt",
+  "bytes": 1059124,
+  "frames": [
+   "assets/Library/architecture-spotlight-01.jpg",
+   "assets/Library/architecture-spotlight-02.jpg",
+   "assets/Library/architecture-spotlight-03.jpg",
+   "assets/Library/architecture-spotlight-04.jpg",
+   "assets/Library/architecture-spotlight-05.jpg",
+   "assets/Library/architecture-spotlight-06.jpg",
+   "assets/Library/architecture-spotlight-07.jpg",
+   "assets/Library/architecture-spotlight-08.jpg"
+  ],
+  "component": "ArchitectureSpotlight"
+ },
+ {
+  "id": "diagram-zoom-pan",
+  "category": "Architecture",
+  "name": "Diagram zoom and pan",
+  "description": "Full architecture diagram (extractor / process engine / results modeler) → Morph zooms and pans across its stages (4:3 deck, centred). Includes white side masks (‘!!4x3 mask left/right’) that keep the original 4:3 framing on the 16:9 slide.",
+  "slides": 5,
+  "source": "ICSOC24-SOC4AI-FJCL.pptx slides [19, 20, 21, 22, 23]",
+  "aspect": "4:3 centred on 16:9",
+  "transitions": [
+   "cut",
+   "morph",
+   "morph",
+   "morph",
+   "morph"
+  ],
+  "effects": {},
+  "file": "kit/library/diagram-zoom-pan.pptx.b64.txt",
+  "bytes": 1341864,
+  "frames": [
+   "assets/Library/diagram-zoom-pan-01.jpg",
+   "assets/Library/diagram-zoom-pan-02.jpg",
+   "assets/Library/diagram-zoom-pan-03.jpg",
+   "assets/Library/diagram-zoom-pan-04.jpg",
+   "assets/Library/diagram-zoom-pan-05.jpg"
+  ],
+  "component": "DiagramZoomPan"
+ },
+ {
+  "id": "acronym-expansion",
+  "category": "Architecture",
+  "name": "Acronym expansion",
+  "description": "‘How can we do this?’ → giant red acronym C S O P → Morph spreads it and lines connect each letter to its word.",
+  "slides": 3,
+  "source": "CAISE25-AGF.pptx slides [37, 38, 39]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "cut",
+   "morph"
+  ],
+  "effects": {},
+  "file": "kit/library/acronym-expansion.pptx.b64.txt",
+  "bytes": 172540,
+  "frames": [
+   "assets/Library/acronym-expansion-01.jpg",
+   "assets/Library/acronym-expansion-02.jpg",
+   "assets/Library/acronym-expansion-03.jpg"
+  ],
+  "component": "AcronymExpansion"
+ },
+ {
+  "id": "proposal-stack",
+  "category": "Architecture",
+  "name": "Operations stack (filter / valid / model)",
+  "description": "Proposal diagram (iPricing → data/model → CSOP) with crimson frames, then the layered operations stack with a solver logo.",
+  "slides": 3,
+  "source": "CAISE25-AGF.pptx slides [40, 41, 42]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "morph",
+   "cut"
+  ],
+  "effects": {
+   "entr:wipe": 2,
+   "entr:rise_up": 9,
+   "entr:dissolve": 5
+  },
+  "file": "kit/library/proposal-stack.pptx.b64.txt",
+  "bytes": 495966,
+  "frames": [
+   "assets/Library/proposal-stack-01.jpg",
+   "assets/Library/proposal-stack-02.jpg",
+   "assets/Library/proposal-stack-03.jpg"
+  ],
+  "component": "ProposalStack"
+ },
+ {
+  "id": "rq-cards",
+  "category": "Evaluation",
+  "name": "Research-question cards",
+  "description": "Three white RQ cards with crimson pill, label, question and grey note.",
+  "slides": 1,
+  "source": "CAiSE_2026_-_FJCL.pptx slides [32]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut"
+  ],
+  "effects": {},
+  "file": "kit/library/rq-cards.pptx.b64.txt",
+  "bytes": 93993,
+  "frames": [
+   "assets/Library/rq-cards-01.jpg"
+  ],
+  "component": "RqCards"
+ },
+ {
+  "id": "rq-circles",
+  "category": "Evaluation",
+  "name": "Research questions with numbered circles",
+  "description": "Numbered crimson circles with each research question beside them.",
+  "slides": 1,
+  "source": "JCIS-AGF-v2.pptx slides [19]",
+  "aspect": "16:9",
+  "transitions": [
+   "morph"
+  ],
+  "effects": {
+   "entr:blinds": 3
+  },
+  "file": "kit/library/rq-circles.pptx.b64.txt",
+  "bytes": 165551,
+  "frames": [
+   "assets/Library/rq-circles-01.jpg"
+  ],
+  "component": "RqCircles"
+ },
+ {
+  "id": "methodology-funnel",
+  "category": "Evaluation",
+  "name": "Methodology funnel",
+  "description": "Participants and LLM logos → pink trapezoids (raw templates → manual review → structural filtering) → final set, with angled connectors.",
+  "slides": 1,
+  "source": "CAiSE_2026_-_FJCL.pptx slides [34]",
+  "aspect": "16:9",
+  "transitions": [
+   "morph"
+  ],
+  "effects": {
+   "entr:wipe": 8,
+   "entr:zoom": 4
+  },
+  "file": "kit/library/methodology-funnel.pptx.b64.txt",
+  "bytes": 580487,
+  "frames": [
+   "assets/Library/methodology-funnel-01.jpg"
+  ],
+  "component": "MethodologyFunnel"
+ },
+ {
+  "id": "coverage-panels",
+  "category": "Evaluation",
+  "name": "Coverage + interpretation panels",
+  "description": "Big pink coverage card (54 %) with formula pill, interpretation card and ‘open gaps’ chips.",
+  "slides": 1,
+  "source": "CAiSE_2026_-_FJCL.pptx slides [35]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut"
+  ],
+  "effects": {
+   "entr:zoom": 2
+  },
+  "file": "kit/library/coverage-panels.pptx.b64.txt",
+  "bytes": 94833,
+  "frames": [
+   "assets/Library/coverage-panels-01.jpg"
+  ],
+  "component": "CoveragePanels"
+ },
+ {
+  "id": "results-table",
+  "category": "Evaluation",
+  "name": "Results table with RQ answers",
+  "description": "Table with crimson header row, then two pink answer cards for RQ2 / RQ3.",
+  "slides": 1,
+  "source": "CAiSE_2026_-_FJCL.pptx slides [37]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut"
+  ],
+  "effects": {},
+  "file": "kit/library/results-table.pptx.b64.txt",
+  "bytes": 94433,
+  "frames": [
+   "assets/Library/results-table-01.jpg"
+  ],
+  "component": "ResultsTable"
+ },
+ {
+  "id": "evaluation-stages",
+  "category": "Evaluation",
+  "name": "Two-stage evaluation rings",
+  "description": "Green and blue ring diagrams for Stage 01 / Stage 02 with short descriptions.",
+  "slides": 1,
+  "source": "CAISE25-AGF.pptx slides [44]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut"
+  ],
+  "effects": {},
+  "file": "kit/library/evaluation-stages.pptx.b64.txt",
+  "bytes": 295506,
+  "frames": [
+   "assets/Library/evaluation-stages-01.jpg"
+  ],
+  "component": "EvaluationStages"
+ },
+ {
+  "id": "stat-split-panels",
+  "category": "Evaluation",
+  "name": "Dataset / result split panels",
+  "description": "Slide split in pale yellow (dataset: stat bubbles + SaaS logos) and pink (result: +20 % with breakdown, then trophy 100 %).",
+  "slides": 2,
+  "source": "CAISE25-AGF.pptx slides [45, 46]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "morph"
+  ],
+  "effects": {
+   "entr:wipe": 8,
+   "entr:float_in": 7,
+   "entr:zoom": 4,
+   "entr:dissolve": 1
+  },
+  "file": "kit/library/stat-split-panels.pptx.b64.txt",
+  "bytes": 588762,
+  "frames": [
+   "assets/Library/stat-split-panels-01.jpg",
+   "assets/Library/stat-split-panels-02.jpg"
+  ],
+  "component": "StatSplitPanels"
+ },
+ {
+  "id": "split-outcome",
+  "category": "Evaluation",
+  "name": "Split outcome arrows",
+  "description": "Pricing files → solver → crimson fork to 65 % / 35 % with pictograms; then the inconsistency cases.",
+  "slides": 2,
+  "source": "CAISE25-AGF.pptx slides [48, 49]",
+  "aspect": "16:9",
+  "transitions": [
+   "morph",
+   "morph"
+  ],
+  "effects": {
+   "entr:wipe": 8,
+   "entr:zoom": 3
+  },
+  "file": "kit/library/split-outcome.pptx.b64.txt",
+  "bytes": 873314,
+  "frames": [
+   "assets/Library/split-outcome-01.jpg",
+   "assets/Library/split-outcome-02.jpg"
+  ],
+  "component": "SplitOutcome"
+ },
+ {
+  "id": "pyramid-levels",
+  "category": "Evaluation",
+  "name": "Capability pyramid L1–L3",
+  "description": "Empty triangle → L1 → L2 → L3 crimson bands, each with a code callout (.js) appearing beside it.",
+  "slides": 5,
+  "source": "JCIS-AGF-v2.pptx slides [28, 29, 30, 31, 32]",
+  "aspect": "16:9",
+  "transitions": [
+   "morph",
+   "morph",
+   "cut",
+   "morph",
+   "morph"
+  ],
+  "effects": {},
+  "file": "kit/library/pyramid-levels.pptx.b64.txt",
+  "bytes": 633287,
+  "frames": [
+   "assets/Library/pyramid-levels-01.jpg",
+   "assets/Library/pyramid-levels-02.jpg",
+   "assets/Library/pyramid-levels-03.jpg",
+   "assets/Library/pyramid-levels-04.jpg",
+   "assets/Library/pyramid-levels-05.jpg"
+  ],
+  "component": "PyramidLevels"
+ },
+ {
+  "id": "big-stat-out-of",
+  "category": "Evaluation",
+  "name": "‘4 out of 18’ big stats",
+  "description": "Yellow/pink split with giant fractions (4 out of 18 tools) and tool logos.",
+  "slides": 1,
+  "source": "ICWE25-AGF.pptx slides [39]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut"
+  ],
+  "effects": {
+   "entr:wipe": 2,
+   "entr:float_in": 6,
+   "entr:zoom": 2
+  },
+  "file": "kit/library/big-stat-out-of.pptx.b64.txt",
+  "bytes": 292094,
+  "frames": [
+   "assets/Library/big-stat-out-of-01.jpg"
+  ],
+  "component": "BigStatOutOf"
+ },
+ {
+  "id": "tools-arcs",
+  "category": "Evaluation",
+  "name": "Tools on arcs",
+  "description": "Tool logos inside partial coloured rings with short verdicts (Togglz, Unleash, LaunchDarkly…).",
+  "slides": 1,
+  "source": "ICWE25-AGF.pptx slides [40]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut"
+  ],
+  "effects": {
+   "entr:zoom": 5
+  },
+  "file": "kit/library/tools-arcs.pptx.b64.txt",
+  "bytes": 377891,
+  "frames": [
+   "assets/Library/tools-arcs-01.jpg"
+  ],
+  "component": "ToolsArcs"
+ },
+ {
+  "id": "challenges-hub",
+  "category": "Evaluation",
+  "name": "Challenges hub A–F",
+  "description": "Two central nodes (internal / external) branching to six lettered challenges (4:3 deck, centred). Includes white side masks (‘!!4x3 mask left/right’) that keep the original 4:3 framing on the 16:9 slide.",
+  "slides": 1,
+  "source": "ICSOC24-SOC4AI-FJCL.pptx slides [43]",
+  "aspect": "4:3 centred on 16:9",
+  "transitions": [
+   "cut"
+  ],
+  "effects": {
+   "entr:wipe": 24
+  },
+  "file": "kit/library/challenges-hub.pptx.b64.txt",
+  "bytes": 222575,
+  "frames": [
+   "assets/Library/challenges-hub-01.jpg"
+  ],
+  "component": "ChallengesHub"
+ },
+ {
+  "id": "rotating-wheel",
+  "category": "Closing",
+  "name": "Rotating future-work wheel",
+  "description": "Pentagon hub (‘future work’) → coloured segments appear one by one and the wheel rotates with Morph to bring each research line to the top, with its guiding question; ends beside the system logo.",
+  "slides": 7,
+  "source": "CAiSE_2026_-_FJCL.pptx slides [40, 41, 42, 43, 44, 45, 47]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph"
+  ],
+  "effects": {
+   "entr:zoom": 1
+  },
+  "file": "kit/library/rotating-wheel.pptx.b64.txt",
+  "bytes": 7217411,
+  "frames": [
+   "assets/Library/rotating-wheel-01.jpg",
+   "assets/Library/rotating-wheel-02.jpg",
+   "assets/Library/rotating-wheel-03.jpg",
+   "assets/Library/rotating-wheel-04.jpg",
+   "assets/Library/rotating-wheel-05.jpg",
+   "assets/Library/rotating-wheel-06.jpg",
+   "assets/Library/rotating-wheel-07.jpg"
+  ],
+  "component": "RotatingWheel"
+ },
+ {
+  "id": "segment-wheel-build",
+  "category": "Closing",
+  "name": "Segment wheel build (framework)",
+  "description": "Framework logo in a pentagon; segments grow around it one per step until the classification wheel is complete.",
+  "slides": 6,
+  "source": "ICWE25-AGF.pptx slides [26, 27, 28, 29, 30, 31]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "morph",
+   "morph",
+   "morph",
+   "morph",
+   "morph"
+  ],
+  "effects": {},
+  "file": "kit/library/segment-wheel-build.pptx.b64.txt",
+  "bytes": 1005455,
+  "frames": [
+   "assets/Library/segment-wheel-build-01.jpg",
+   "assets/Library/segment-wheel-build-02.jpg",
+   "assets/Library/segment-wheel-build-03.jpg",
+   "assets/Library/segment-wheel-build-04.jpg",
+   "assets/Library/segment-wheel-build-05.jpg",
+   "assets/Library/segment-wheel-build-06.jpg"
+  ],
+  "component": "SegmentWheelBuild"
+ },
+ {
+  "id": "chevron-steps",
+  "category": "Closing",
+  "name": "Chevron numbered steps",
+  "description": "Conclusions over the loop, then crimson/amber chevrons 1-2-3 stacking future-work items with partner logos.",
+  "slides": 4,
+  "source": "PhD_Forum_FEBRERO_2026_-_AGF.pptx slides [53, 54, 55, 56]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "cut",
+   "morph",
+   "fade"
+  ],
+  "effects": {
+   "entr:peek_in": 5,
+   "entr:dissolve": 4
+  },
+  "file": "kit/library/chevron-steps.pptx.b64.txt",
+  "bytes": 578606,
+  "frames": [
+   "assets/Library/chevron-steps-01.jpg",
+   "assets/Library/chevron-steps-02.jpg",
+   "assets/Library/chevron-steps-03.jpg",
+   "assets/Library/chevron-steps-04.jpg"
+  ],
+  "component": "ChevronSteps"
+ },
+ {
+  "id": "numbered-points-0104",
+  "category": "Closing",
+  "name": "Future work 01–04",
+  "description": "Big thin numerals 01–04 with crimson headings.",
+  "slides": 1,
+  "source": "SCORE_2025_-_FJCL.pptx slides [42]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut"
+  ],
+  "effects": {
+   "entr:zoom": 4
+  },
+  "file": "kit/library/numbered-points-0104.pptx.b64.txt",
+  "bytes": 171770,
+  "frames": [
+   "assets/Library/numbered-points-0104-01.jpg"
+  ],
+  "component": "NumberedPoints0104"
+ },
+ {
+  "id": "conclusions-icons",
+  "category": "Closing",
+  "name": "Conclusions with icons",
+  "description": "Three crimson icon tiles with short captions.",
+  "slides": 1,
+  "source": "SCORE_2025_-_FJCL.pptx slides [43]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut"
+  ],
+  "effects": {
+   "entr:zoom": 3
+  },
+  "file": "kit/library/conclusions-icons.pptx.b64.txt",
+  "bytes": 179627,
+  "frames": [
+   "assets/Library/conclusions-icons-01.jpg"
+  ],
+  "component": "ConclusionsIcons"
+ },
+ {
+  "id": "conclusions-recap",
+  "category": "Closing",
+  "name": "Conclusions recap",
+  "description": "Numbered contributions growing on the left while the right side re-shows the proposal with a crimson frame on the part being recalled.",
+  "slides": 4,
+  "source": "CAISE25-AGF.pptx slides [51, 52, 53, 55]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "morph",
+   "cut",
+   "cut"
+  ],
+  "effects": {},
+  "file": "kit/library/conclusions-recap.pptx.b64.txt",
+  "bytes": 716551,
+  "frames": [
+   "assets/Library/conclusions-recap-01.jpg",
+   "assets/Library/conclusions-recap-02.jpg",
+   "assets/Library/conclusions-recap-03.jpg",
+   "assets/Library/conclusions-recap-04.jpg"
+  ],
+  "component": "ConclusionsRecap"
+ },
+ {
+  "id": "ribbon-numbered",
+  "category": "Closing",
+  "name": "Numbered ribbons with QR",
+  "description": "Crimson ribbons 01/02/03 with white numbered discs and a QR code.",
+  "slides": 1,
+  "source": "JCIS-AGF-v2.pptx slides [37]",
+  "aspect": "16:9",
+  "transitions": [
+   "morph"
+  ],
+  "effects": {
+   "entr:split": 3,
+   "entr:dissolve": 1
+  },
+  "file": "kit/library/ribbon-numbered.pptx.b64.txt",
+  "bytes": 396604,
+  "frames": [
+   "assets/Library/ribbon-numbered-01.jpg"
+  ],
+  "component": "RibbonNumbered"
+ },
+ {
+  "id": "puzzle-pieces",
+  "category": "Closing",
+  "name": "Four-piece puzzle",
+  "description": "Crimson puzzle with four labelled callouts (icon bars) around it.",
+  "slides": 1,
+  "source": "SCORE_2025_-_FJCL.pptx slides [41]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut"
+  ],
+  "effects": {
+   "entr:fly_in": 4,
+   "entr:wipe": 8
+  },
+  "file": "kit/library/puzzle-pieces.pptx.b64.txt",
+  "bytes": 180082,
+  "frames": [
+   "assets/Library/puzzle-pieces-01.jpg"
+  ],
+  "component": "PuzzlePieces"
+ },
+ {
+  "id": "strike-replace",
+  "category": "Openers",
+  "name": "Strike and replace a term",
+  "description": "QACO / QoS-aware composition → struck through in crimson → PACO / Pricing-aware composition appears below.",
+  "slides": 3,
+  "source": "SCORE_2025_-_FJCL.pptx slides [30, 31, 32]",
+  "aspect": "16:9",
+  "transitions": [
+   "cut",
+   "morph",
+   "morph"
+  ],
+  "effects": {
+   "entr:zoom": 1
+  },
+  "file": "kit/library/strike-replace.pptx.b64.txt",
+  "bytes": 173771,
+  "frames": [
+   "assets/Library/strike-replace-01.jpg",
+   "assets/Library/strike-replace-02.jpg",
+   "assets/Library/strike-replace-03.jpg"
+  ],
+  "component": "StrikeReplace"
+ }
+]

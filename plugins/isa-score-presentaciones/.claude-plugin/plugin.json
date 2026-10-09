@@ -1,0 +1,12 @@
+{
+  "name": "isa-score-presentaciones",
+  "version": "0.1.0",
+  "description": "Prepara presentaciones del grupo ISA · SCORE (visuales, animadas, con portada, cierre y biblioteca reales) y las entrega como PowerPoint nativo con Morph y animaciones. Incluye las 7 presentaciones fuente, la biblioteca de 46 componentes originales, la plantilla y el kit.",
+  "author": {
+    "name": "Francisco Javier Cavero López y Alejandro García Fernández"
+  },
+  "homepage": "https://github.com/javiercavlop/isa-score-slides",
+  "repository": "https://github.com/javiercavlop/isa-score-slides",
+  "license": "CC-BY-4.0",
+  "keywords": ["presentaciones", "slides", "powerpoint", "pptx", "isa", "score", "morph"]
+}

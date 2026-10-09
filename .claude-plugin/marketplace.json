@@ -1,0 +1,23 @@
+{
+  "name": "isa-score-slides",
+  "owner": {
+    "name": "Francisco Javier Cavero López y Alejandro García Fernández"
+  },
+  "metadata": {
+    "description": "Presentaciones académicas con el estilo del ISA Research Group / SCORE Lab (Universidad de Sevilla).",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "isa-score-presentaciones",
+      "source": "./plugins/isa-score-presentaciones",
+      "description": "Prepara presentaciones del grupo ISA · SCORE (visuales, animadas, con portada, cierre y biblioteca reales) y las entrega como PowerPoint nativo con Morph y animaciones.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Francisco Javier Cavero López y Alejandro García Fernández"
+      },
+      "license": "CC-BY-4.0",
+      "keywords": ["presentaciones", "slides", "powerpoint", "pptx", "isa", "score", "morph"]
+    }
+  ]
+}

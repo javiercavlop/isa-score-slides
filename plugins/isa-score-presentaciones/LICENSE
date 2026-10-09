@@ -1,0 +1,142 @@
+ISA · SCORE Slides — Sistema de diseño para presentaciones
+Copyright (c) 2026 Francisco Javier Cavero López y Alejandro García Fernández
+
+Autores y titulares de los derechos
+-----------------------------------
+Francisco Javier Cavero López y Alejandro García Fernández, vinculados a
+SCORE Lab (I3US, Universidad de Sevilla) y al Grupo ISA (ISA Research Group,
+Universidad de Sevilla).
+
+Referencia visual
+-----------------
+El diseño original de este sistema busca evocar la estética y el estilo visual
+de las presentaciones del ISA Research Group (Universidad de Sevilla), que se
+toman como referencia e inspiración visual.
+
+
+PARTE 1 — LICENCIA DEL SISTEMA DE DISEÑO: CC BY 4.0
+====================================================
+
+Salvo lo indicado en la PARTE 3, el sistema de diseño "ISA · SCORE Slides" se
+distribuye bajo la licencia Creative Commons Atribución 4.0 Internacional
+(CC BY 4.0).
+
+  Resumen:        https://creativecommons.org/licenses/by/4.0/deed.es
+  Texto legal:    https://creativecommons.org/licenses/by/4.0/legalcode.es
+  (versión original en inglés: https://creativecommons.org/licenses/by/4.0/legalcode)
+
+A efectos de esta licencia, el "sistema de diseño" (el Material Licenciado)
+comprende:
+
+  - la guía de marca y la documentación (README.md, slide-patterns.md,
+    motion.md, component-library.md, pptx-workflow.md y demás secciones);
+  - los tokens de diseño (tokens.json y la hoja tokens.css que se genera a
+    partir de ellos);
+  - los componentes y sus vistas previas (components/), incluida la portada
+    del sistema;
+  - el kit de generación (kit/isa_deck.py, kit/build_showcase.py,
+    kit/build_library.py), la plantilla (kit/isa-score-template.pptx.b64.txt),
+    la presentación de ejemplo (kit/ISA-SCORE_showcase.pptx.b64.txt) y la
+    biblioteca de componentes originales (kit/library/), así como las capturas
+    de assets/Examples y assets/Library;
+
+en la medida en que los autores sean titulares de los derechos sobre esos
+elementos.
+
+Reproducir, modificar, adaptar o redistribuir el sistema de diseño, incluidas
+sus versiones derivadas (por ejemplo, otro sistema de diseño, una plantilla,
+un kit o una biblioteca de componentes basados en este), queda sujeto a
+CC BY 4.0. En particular, quien lo haga debe:
+
+  1. reconocer la autoría original: "ISA · SCORE Slides, por Francisco Javier
+     Cavero López y Alejandro García Fernández (SCORE Lab, I3US, Universidad de
+     Sevilla; Grupo ISA)";
+  2. incluir una referencia a la licencia CC BY 4.0 (con su enlace) y conservar
+     este archivo LICENSE o un aviso equivalente;
+  3. indicar si se han realizado modificaciones y cuáles.
+
+Ejemplo de atribución:
+  "Basado en ISA · SCORE Slides de Francisco Javier Cavero López y Alejandro
+   García Fernández (SCORE Lab, I3US, Universidad de Sevilla; Grupo ISA),
+   bajo licencia CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+   Modificado: <descripción de los cambios>."
+
+
+PARTE 2 — AUTORIZACIÓN ADICIONAL: PRESENTACIONES GENERADAS SIN ATRIBUCIÓN
+=========================================================================
+
+Como permiso adicional otorgado por los licenciantes, separado e independiente
+de CC BY 4.0 (véase su sección 7.b) y que no la sustituye ni la modifica para
+ningún otro uso, los titulares de los derechos, Francisco Javier Cavero López y
+Alejandro García Fernández, autorizan expresamente lo siguiente:
+
+  Las presentaciones, diapositivas y documentos creados utilizando este
+  sistema de diseño ("Presentaciones Generadas") —incluidos los que contengan
+  la plantilla, la portada y el cierre, los tokens, los patrones, las
+  transiciones, las animaciones o los componentes de la biblioteca, tal cual
+  o modificados— pueden usarse, modificarse, publicarse, exhibirse y
+  distribuirse libremente, en cualquier medio y formato, incluso con fines
+  comerciales, SIN obligación de atribución a los autores del sistema de
+  diseño.
+
+  En consecuencia, no es necesario incluir créditos, menciones a los autores,
+  referencias a SCORE Lab o al Grupo ISA, ni referencias a CC BY 4.0 en las
+  diapositivas, en los documentos exportados (por ejemplo .pptx o .pdf) ni en
+  las presentaciones finales.
+
+Alcance y límites de esta autorización:
+
+  a) Se aplica a las Presentaciones Generadas como documentos de uso final. No
+     se aplica a la reproducción, modificación, adaptación o redistribución del
+     propio sistema de diseño ni de sus partes como recursos reutilizables
+     (plantilla, kit, tokens, componentes o biblioteca, por separado o
+     empaquetados), que siguen sujetas a la PARTE 1 y a sus obligaciones de
+     atribución, referencia a la licencia e indicación de cambios.
+  b) Extraer de una Presentación Generada la plantilla, el kit o la biblioteca
+     para redistribuirlos como recursos reutilizables equivale a redistribuir
+     el sistema de diseño y queda sujeto a la PARTE 1.
+  c) Esta autorización no amplía los derechos sobre los materiales indicados
+     en la PARTE 3.
+
+
+PARTE 3 — LO QUE ESTA LICENCIA NO CUBRE
+=======================================
+
+1. Contenidos de los usuarios. Ni CC BY 4.0 ni la autorización adicional se
+   extienden a los textos, datos, imágenes, figuras u otros contenidos
+   originales que cada usuario incorpore a sus presentaciones. Esos contenidos
+   pertenecen a sus autores y se rigen por las condiciones que estos decidan.
+
+2. Materiales y marcas de terceros. Este sistema contiene o reproduce
+   materiales cuyos derechos no pertenecen a los autores del sistema de diseño,
+   que NO se licencian bajo CC BY 4.0 ni bajo la autorización adicional, entre
+   ellos:
+     - logotipos y signos institucionales: Grupo ISA, SCORE Lab / Unidad de
+       Excelencia SCORE, I3US, Universidad de Sevilla, Junta de Andalucía,
+       Ministerio de Ciencia, Innovación y Universidades, Unión Europea
+       (NextGenerationEU), Plan de Recuperación, Transformación y Resiliencia y
+       Agencia Estatal de Investigación (assets/Logos y su copia en la
+       plantilla);
+     - marcas, logotipos y capturas de productos y servicios de terceros que
+       aparecen en componentes de la biblioteca (por ejemplo, GitHub,
+       CircleCI, Jira, Shopify, Zoom, Salesforce, LaunchDarkly, Unleash,
+       Togglz, Booking.com, Amadeus, Gemini, Python u otros);
+     - iconos, ilustraciones, fotografías o tipografías de terceros
+       (por ejemplo, Roboto, Barlow, Arial Narrow o Calibri), que mantienen sus
+       propias licencias.
+   Su uso se rige por las condiciones de sus titulares. La inclusión de estos
+   elementos no concede ningún derecho sobre ellos ni implica respaldo de sus
+   titulares. Al reutilizar el sistema, cada usuario es responsable de
+   comprobar que puede usar estos materiales o de sustituirlos.
+
+3. Las referencias bibliográficas citadas en los componentes identifican
+   trabajos de sus respectivos autores y editoriales; citarlas no transfiere
+   derechos sobre dichos trabajos.
+
+
+PARTE 4 — SIN GARANTÍAS
+=======================
+
+El sistema de diseño se ofrece "tal cual", sin garantías de ningún tipo, en
+los términos de la sección 5 de CC BY 4.0. En la medida permitida por la ley,
+los autores no serán responsables de los daños derivados de su uso.
