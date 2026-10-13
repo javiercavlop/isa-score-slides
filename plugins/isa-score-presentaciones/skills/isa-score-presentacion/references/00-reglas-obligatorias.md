@@ -19,6 +19,7 @@
 5. **Arquitecturas como diagramas nativos** (formas, conectores, iconos), construidos y recorridos con animación.
 6. **Animaciones en el PowerPoint descargado**: el entregable es un .pptx nativo con Morph y animaciones, nunca el PPTX exportado desde Claude Slides.
 7. **Sin límite de diapositivas**: cada idea, una secuencia de copias con Morph.
+8. **Paginación estable**: el número de diapositiva conserva en todo el deck el mismo tamaño, posición, color y estilo; solo puede salir del lienzo durante una ampliación/recorrido visual de una figura o arquitectura.
 
 Origen: son las peticiones que el autor ha tenido que repetir a mano en presentaciones anteriores. Literalmente:
 
@@ -176,5 +177,6 @@ Para que la conversión sea fiel, en Slides: un `id` en todo lo que deba hacer M
 4. Arquitecturas como diagramas nativos con construcción animada y spotlight.
 5. Cada diapositiva de contenido con animación; cascadas pieza a pieza; todas las flechas animadas; agenda animada en cada sección.
 6. Secuencias Morph con número lógico repetido; muchas diapositivas físicas si hace falta.
-7. Todo el texto en pantalla en inglés.
-8. Entregado como .pptx nativo (Camino A o C) y verificado como en §6. Nunca el PPTX exportado desde Slides.
+7. Paginación: todas las cajas `Slide number` visibles tienen la misma firma de tamaño, posición, color y estilo. Una caja fuera del lienzo solo se acepta en una copia Morph que continúe una ampliación de figura o arquitectura; vuelve a la posición normal al terminar el recorrido.
+8. Todo el texto en pantalla en inglés.
+9. Entregado como .pptx nativo (Camino A o C) y verificado como en §6. Nunca el PPTX exportado desde Slides.
